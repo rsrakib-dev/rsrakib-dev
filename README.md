@@ -1,8 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/rsrakib-dev/rsrakib-dev/main/rakib-pic.jpg" width="150" height="150" style="border-radius: 50%; border: 3px solid #1e4a39; object-fit: cover;" alt="Rakib" />
-
-  <br><br>
+    <br><br>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=1e4a39&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Rakib;Web+Developer+%7C+Shopify+Developer;Laravel+8+Frontend+Specialist" alt="Typing SVG" />
 
