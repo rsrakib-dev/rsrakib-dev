@@ -69,8 +69,8 @@ Database-driven Applications • Backend Architecture • Frontend Integration
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rsrakib-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsrakib-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160em" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=rsrakib-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160em" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rsrakib-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160em" />
 </div>
 
 <br>
