@@ -69,20 +69,14 @@ Database-driven Applications • Backend Architecture • Frontend Integration
 ### GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rsrakib-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsrakib-dev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rsrakib-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsrakib-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160em" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsrakib-dev&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rsrakib-dev&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://streak-stats.demolab.com/?user=rsrakib-dev&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
