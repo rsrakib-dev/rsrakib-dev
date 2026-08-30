@@ -1,10 +1,14 @@
 <div align="center">
 
+  <img src="https://raw.githubusercontent.com/rsrakib-dev/rsrakib-dev/main/rakib-pic.jpg" width="150" height="150" style="border-radius: 50%; border: 3px solid #00D9FF; object-fit: cover;" alt="Rakib" />
+
+  <br><br>
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Rakib;Web+Developer+%7C+Shopify+Developer;Laravel+%26+Frontend+Specialist" alt="Typing SVG" />
 
   <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=Rakib&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rsrakib-dev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-00D9FF?style=flat-square" />
 
@@ -67,20 +71,20 @@ Database-driven Applications • Backend Architecture • Frontend Integration
 ### GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Rakib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rsrakib-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsrakib-dev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakib&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsrakib-dev&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rakib&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rsrakib-dev&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ---
@@ -88,19 +92,19 @@ Database-driven Applications • Backend Architecture • Frontend Integration
 ### Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/rakib-web/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://YOUR_PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=About.me&logoColor=white" />
+  <a href="https://www.facebook.com/rsrakib.me/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/Rakib">
+  <a href="https://github.com/rsrakib-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:devrakib.io@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -108,7 +112,7 @@ Database-driven Applications • Backend Architecture • Frontend Integration
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/rsrakib-dev/rsrakib-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 
 <br>
