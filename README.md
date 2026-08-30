@@ -1,112 +1,118 @@
 <div align="center">
-  
-  <!-- Animated Typing -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rakib+%F0%9F%91%8B;Web+Developer+%C2%B7+Shopify+Developer;Laravel+Developer+%C2%B7+Frontend+Enthusiast;Building+Clean+%26+High-Performing+Web+Experiences" alt="Typing SVG" />
-  </a>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Rakib;Web+Developer+%7C+Shopify+Developer;Laravel+%26+Frontend+Specialist" alt="Typing SVG" />
 
   <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=Rakib&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Rakib&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-00D9FF?style=flat-square" />
 
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=A9B7C6&center=true&vCenter=true&width=620&lines=Clean+Code+%E2%80%A2+High+Performance+%E2%80%A2+Conversion+Focused;Shopify+%E2%80%A2+Laravel+%E2%80%A2+Modern+Frontend" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🚀 About Me
+### About
 
-I'm a **Web Developer** specializing in **Shopify**, **PHP**, **Laravel**, **JavaScript**, and modern frontend development.  
-I build clean, responsive, high-performing, and user-focused web experiences for businesses, brands, and eCommerce stores.
+Web Developer specializing in **Shopify**, **Laravel**, **PHP** & **JavaScript**.  
+I build clean, responsive and high-performing eCommerce stores & web applications focused on performance, usability and conversion.
 
-I enjoy transforming ideas and designs into **scalable**, **functional**, and **conversion-focused** digital experiences with a strong focus on performance, usability, maintainability, and clean code.
-
-- 💻 Web Developer focused on modern web technologies  
-- 🛍️ Specialized in Shopify theme development & customization  
-- ⚙️ Experienced with PHP & Laravel  
-- 🎨 Strong focus on responsive UI/UX implementation  
-- ⚡ Interested in performance optimization and clean architecture  
-- 🔧 Experienced with Shopify Liquid, JavaScript, CSS & theme customization  
-- 📈 Continuously learning SEO, JavaScript, and advanced frontend development  
-- 🌱 Currently improving skills in scalable web application development  
-- 🤝 Open to collaborating on interesting web development projects  
+**Focus Areas**  
+`Shopify Theme Development` `Shopify Liquid` `Custom Sections` `Metafields`  
+`Laravel` `PHP` `REST APIs` `Frontend Integration` `Performance Optimization`
 
 ---
 
-### 💼 Professional Experience
+### Tech Stack
 
-#### 🛍️ Shopify Development
-I work extensively with Shopify stores, helping businesses build and improve their eCommerce presence.
-
-**Areas I work with:**
-- Shopify Theme Development & Customization
-- Shopify Liquid
-- Custom Sections & Blocks
-- Product & Collection Templates
-- Metafields & Metaobjects
-- Custom Product Pages
-- Responsive Design
-- JavaScript Interactions
-- App Integrations & Third-party API Integrations
-- Store Performance Optimization
-- Conversion-focused UI/UX
-- B2B & Wholesale Features
-- Subscription & Bundle Experiences
-- Custom Storefront Functionality
-
-#### 🌐 Web Application Development
-I also work with backend and full-stack web technologies, particularly:
-- PHP & Laravel
-- JavaScript
-- REST APIs
-- Database-driven applications
-- Authentication & Authorization
-- Backend architecture
-- Frontend integration
-
----
-
-### 🛠️ Tech Stack
-
-#### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,sass" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,php,laravel,mysql,nodejs,git,github,vscode,figma" />
 </p>
 
-#### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs" />
-</p>
-
-#### eCommerce
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Liquid-000000?style=for-the-badge&logo=shopify&logoColor=white" />
-</p>
-
-#### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
+  <img src="https://img.shields.io/badge/Liquid-121212?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 ---
 
-### 🎯 What I Do
+### Experience
 
-```text
-Shopify Development
-├── Theme Development
-├── Theme Customization
-├── Liquid Development
-├── Custom Sections & Blocks
-├── Product & Collection Pages
-├── Metafields & Metaobjects
-├── App Integrations
-└── Performance Optimization
+**Shopify Development**  
+Theme Development • Theme Customization • Liquid • Custom Sections & Blocks  
+Product & Collection Templates • Metafields & Metaobjects • App Integrations  
+Performance Optimization • Conversion-focused UI/UX
 
-Web Development
-├── PHP
-├── Laravel
-├── JavaScript
-├── HTML & CSS
-├── REST APIs
-└── Database-driven Applications
+**Web Application Development**  
+PHP • Laravel • JavaScript • REST APIs • Authentication  
+Database-driven Applications • Backend Architecture • Frontend Integration
+
+---
+
+### Currently Learning
+
+`Advanced JavaScript` `Advanced Shopify Liquid` `Frontend Architecture`  
+`Web Performance` `Technical SEO` `API Integrations`
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Rakib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakib&theme=tokyonight&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rakib&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+### Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://YOUR_PORTFOLIO.com">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Rakib">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1200&color=00D9FF&center=true&vCenter=true&width=480&lines=Thanks+for+stopping+by;Let's+build+something+great" alt="Typing SVG" />
+</div>
