@@ -1,21 +1,23 @@
 <div align="center">
 
- 
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Rakib;Web+Developer+%7C+Shopify+Developer;Laravel+%26+Frontend+Specialist" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/rsrakib-dev/rsrakib-dev/main/rakib-pic.jpg" width="150" height="150" style="border-radius: 50%; border: 3px solid #1e4a39; object-fit: cover;" alt="Rakib" />
 
   <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=rsrakib-dev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=1e4a39&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Rakib;Web+Developer+%7C+Shopify+Developer;Laravel+8+Frontend+Specialist" alt="Typing SVG" />
+
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=rsrakib-dev&label=Profile%20Views&color=1e4a39&style=flat-square" alt="Profile views" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-00D9FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-1e4a39?style=flat-square" />
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=A9B7C6&center=true&vCenter=true&width=620&lines=Clean+Code+%E2%80%A2+High+Performance+%E2%80%A2+Conversion+Focused;Shopify+%E2%80%A2+Laravel+%E2%80%A2+Modern+Frontend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=1e4a39&center=true&vCenter=true&width=620&lines=Clean+Code+%E2%80%A2+High+Performance+%E2%80%A2+Conversion+Focused;Shopify+%E2%80%A2+Laravel+8+%E2%80%A2+Modern+Frontend" alt="Typing SVG" />
 </div>
 
 ---
@@ -79,6 +81,12 @@ Database-driven Applications • Backend Architecture • Frontend Integration
   <img src="https://streak-stats.demolab.com/?user=rsrakib-dev&theme=tokyonight&hide_border=true" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rsrakib-dev&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
 ---
 
 ### Connect
@@ -110,5 +118,5 @@ Database-driven Applications • Backend Architecture • Frontend Integration
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1200&color=00D9FF&center=true&vCenter=true&width=480&lines=Thanks+for+stopping+by;Let's+build+something+great" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1200&color=1e4a39&center=true&vCenter=true&width=480&lines=Thanks+for+stopping+by;Let's+build+something+great" alt="Typing SVG" />
 </div>
