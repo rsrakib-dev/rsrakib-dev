@@ -5,8 +5,8 @@
 <br>
 
 <table>
-  <tr>
-    <td width="60%" valign="middle">
+<tr>
+<td width="58%" valign="middle">
 
 ### Laravel 8 Frontend Specialist
 
@@ -18,11 +18,13 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=1e4a39&center=false&vCenter=true&width=480&lines=Clean+Code+%E2%80%A2+High+Performance+%E2%80%A2+Conversion+Focused;Shopify+%E2%80%A2+Laravel+8+%E2%80%A2+Modern+Frontend" alt="Typing SVG" />
 
-    </td>
-    <td width="40%" align="right" valign="middle">
-      <img src="https://raw.githubusercontent.com/rsrakib-dev/rsrakib-dev/main/rakib-pic.jpg" width="200" height="200" style="border-radius: 50%; border: 4px solid #1e4a39; object-fit: cover;" alt="Rakib" />
-    </td>
-  </tr>
+</td>
+<td width="42%" align="center" valign="middle">
+
+<img src="https://github.com/rsrakib-dev.png" width="210" height="210" style="border-radius:50%; border:4px solid #1e4a39; object-fit:cover;" alt="Rakib" />
+
+</td>
+</tr>
 </table>
 
 ---
