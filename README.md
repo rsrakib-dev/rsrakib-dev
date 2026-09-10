@@ -10,8 +10,7 @@
 
 ### Laravel 8 Frontend Specialist
 
-<img src="https://komarev.com/ghpvc/?username=rsrakib-dev&label=Profile%20Views&color=1e4a39&style=flat-square" alt="Profile views" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-1e4a39?style=flat-square" />
 
 <br><br>
@@ -77,6 +76,10 @@ Database-driven Applications • Backend Architecture • Frontend Integration
 
 ### GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=rsrakib-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160em" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rsrakib-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160em" />
+</div>
 
 <br>
 
