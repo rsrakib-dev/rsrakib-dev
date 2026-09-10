@@ -1,20 +1,27 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e4a39,50:2d5a47,100:3d6b55&height=210&section=header&text=Hi%2C%20I'm%20Rakib&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Web%20Developer%20%E2%80%A2%20Shopify%20Developer%20%E2%80%A2%20Laravel%208%20Frontend%20Specialist&descSize=16&descAlignY=58&animation=fadeIn" alt="Header" />
+</div>
 
+<br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=1e4a39&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Rakib;Web+Developer+%7C+Shopify+Developer;Laravel+8+Frontend+Specialist" alt="Typing SVG" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rsrakib-dev/rsrakib-dev/main/rakib-pic.jpg" width="140" height="140" style="border-radius: 50%; border: 3px solid #1e4a39; object-fit: cover;" alt="Rakib" />
+
+  <br><br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=1e4a39&center=true&vCenter=true&width=680&lines=Web+Developer+%7C+Shopify+Developer;Laravel+8+Frontend+Specialist;Clean+Code+%E2%80%A2+High+Performance" alt="Typing SVG" />
 
   <br><br>
 
   <img src="https://komarev.com/ghpvc/?username=rsrakib-dev&label=Profile%20Views&color=1e4a39&style=flat-square" alt="Profile views" />
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-1e4a39?style=flat-square" />
-
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=1e4a39&center=true&vCenter=true&width=620&lines=Clean+Code+%E2%80%A2+High+Performance+%E2%80%A2+Conversion+Focused;Shopify+%E2%80%A2+Laravel+8+%E2%80%A2+Modern+Frontend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3500&pause=1000&color=1e4a39&center=true&vCenter=true&width=620&lines=Clean+Code+%E2%80%A2+High+Performance+%E2%80%A2+Conversion+Focused;Shopify+%E2%80%A2+Laravel+8+%E2%80%A2+Modern+Frontend" alt="Typing SVG" />
 </div>
 
 ---
